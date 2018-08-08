@@ -473,7 +473,6 @@ properties:
         title: List of copyrights to documents in this record
         type: array
         uniqueItems: true
-
     corporate_authors:
         items:
             description: |-
